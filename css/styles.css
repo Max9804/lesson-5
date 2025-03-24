@@ -44,10 +44,12 @@ table {
 /* END RESET CSS _____________________________________ */
 
 body {
-    background: #ccc;
+    background: #36d8ce;
 }
 
 .container {
     width: 1200px;
     margin: 0 auto;
+    color: white;
+    font-size: 30px;
 }
